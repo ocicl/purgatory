@@ -5,6 +5,6 @@ A client implementation of the 9P file protocol
 
 |---------+--------------------------------------------|
 | source  | git:https://notabug.org/cage/purgatory.git |
-| commit  | 3afd8f6                                    |
+| commit  | ffdc47c                                    |
 | systems | purgatory                                  |
 |---------+--------------------------------------------|
